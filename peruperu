@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
+https://zxzlbnrz.la10tv.com/golperu/tracks-v1a1/mono.m3u8?remote=181.176.40.71&token=514180c77d7db91c568b5a3588dcc312c0517936-b66e06a0ce1099483f2072442e983f3e-1724841005-1724805005
+#EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
+https://b2zmawnpyww.la10tv.com/liga1max/tracks-v1a1/mono.m3u8?remote=181.176.40.71&token=382c0438cf0544cb12b5a632b326d098cd788b16-6bd312fc50b5a1c2a10bc0c697842194-1724839100-1724803100
